@@ -1,0 +1,22 @@
+.container1{
+  display: flex;
+  flex-wrap:;
+}
+.box{
+  width:400px;
+  height:200px;
+}
+.box1{
+  background-color: rgb(85, 11, 47);
+}
+.box2{
+  background-color: rgb(49, 182, 19);
+}
+.box3{
+  background-color: rgb(231, 28, 31);
+}
+@media screen and (max-width:600px) {
+  .box{
+    
+  }
+}

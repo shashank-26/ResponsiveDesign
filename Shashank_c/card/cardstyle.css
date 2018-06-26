@@ -1,0 +1,28 @@
+.main {
+  background-color: blue;
+  width: 400px;
+  height: 600px;
+  border: 20px solid black;
+  margin: 15px;
+
+}
+.img {
+  width: 350px;
+  height: 190px;
+  padding: 10px 5px;
+  border: 5px solid black;
+  margin: 15px;
+}
+.info{
+  background-color: red;
+  font-size: 175%;
+  width: 350px;
+  height: 290px;
+  padding: 10px 5px;
+  border: 5px solid black;
+  margin: 15px;
+
+}
+table,td{
+  border: 1px solid black;
+}
